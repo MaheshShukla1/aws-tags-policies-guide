@@ -1,6 +1,4 @@
-# aws-tags-policies-guide
-
-## Introduction to Tags in AWS Policies
+# Introduction to Tags in AWS Policies
 ### Table of Contents
 - [Detailed Explanations and Examples](#detailed-explanations-and-examples)
 - [Types of Tags](#types-of-tags)
