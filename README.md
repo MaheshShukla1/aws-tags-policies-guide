@@ -8,34 +8,34 @@
 - [Detailed Explanations and Examples](#detailed-explanations-and-examples)
     - [1. aws
         
-        /<key>](#1-awsrequesttagkey)
+        <key>](#1-awsrequesttagkey)
     - [2. aws
         
-        /<key>](#2-awsprincipaltagkey)
+        <key>](#2-awsprincipaltagkey)
     - [3. aws
         
         /<key>](#3-awsresourcetagkey)
     - [4. s3
         
-        /<key>](#4-s3existingobjecttagkey)
+        <key>](#4-s3existingobjecttagkey)
     - [5. s3
         
-        /<key>](#5-s3requestobjecttagkey)
+        <key>](#5-s3requestobjecttagkey)
     - [6. ec2
         
         /<key>](#6-ec2resourcetagkey)
     - [7. ec2
         
-        /<key>](#7-ec2requesttagkey)
+        <key>](#7-ec2requesttagkey)
     - [8. rds
         
-        /<key>](#8-rdsresourcetagkey)
+        <key>](#8-rdsresourcetagkey)
     - [9. rds
         
-        /<key>](#9-rdsrequesttagkey)
+        <key>](#9-rdsrequesttagkey)
     - [10. kms
         
-        /<key>](#10-kmsrequesttagkey)
+        <key>](#10-kmsrequesttagkey)
     - [11. kms
         
         /<key>](#11-kmsresourcetagkey)
