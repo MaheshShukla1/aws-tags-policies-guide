@@ -153,7 +153,7 @@ This policy allows users with the `Development` department tag to create EC2 ins
 
 ### Example 2: EC2 Instance Management Policy
 
-This policy allows users with the `Production` department tag to start, stop, and reboot EC2 instances that are tagged with the `Production` environment tag.
+This policy allows users with the `Production` department tag to start, stop, and reboot EC2 instances that are tagged with the `Production` environment tag
 
 ```json
 {
